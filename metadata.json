@@ -1,0 +1,6 @@
+{
+  "name": "Renuka Sarees - Tradition Woven for Every Occasion",
+  "description": "Premium Indian saree boutique featuring authentic Banarasi, Kanchipuram, Silk, Cotton, Chiffon, and Designer sarees with rich heritage craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
